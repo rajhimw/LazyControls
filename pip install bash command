@@ -1,1 +1,2 @@
 pip install opencv-python mediapipe pyautogui
+#You have to remember that mediapipe only works on Python 3.10 and Python 3.11 so use these versions only.
